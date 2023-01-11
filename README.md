@@ -3,6 +3,8 @@
 
 Here, you can find links to frameworks useful for recommendation algorithms evaluation. Please, feel to contact us in case you want to add more frameworks.
 
+The frameworks are listed alphabetically.
+
 - [Cornac](https://github.com/caserec/CaseRecommender)
 - [DaisyRec](https://github.com/AmazingDD/daisyRec)
 - [Elliot](https://github.com/sisinflab/elliot)
