@@ -5,12 +5,13 @@ Here, you can find links to frameworks useful for recommendation algorithms eval
 
 The frameworks are listed alphabetically.
 
+- [ClayRS](https://github.com/swapUniba/ClayRS)
 - [Cornac](https://github.com/caserec/CaseRecommender)
 - [DaisyRec](https://github.com/AmazingDD/daisyRec)
 - [Elliot](https://github.com/sisinflab/elliot)
-- [Jurity](https://github.com/fidelity/jurity)
+- [Fidelity Jurity](https://github.com/fidelity/jurity)
 - [LensKit](https://github.com/lenskit/lenskit)
-- [Mab2rec](https://github.com/fidelity/mab2rec)
+- [Fidelity Mab2rec](https://github.com/fidelity/mab2rec)
 - [Microsoft Recommenders](https://github.com/microsoft/recommenders)
 - [RecBole](https://github.com/RUCAIBox/RecBole)
 - [ReChorus](https://github.com/THUwangcy/ReChorus)
