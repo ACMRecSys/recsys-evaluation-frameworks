@@ -14,4 +14,5 @@ The frameworks are listed alphabetically.
 - [Microsoft Recommenders](https://github.com/microsoft/recommenders)
 - [RecBole](https://github.com/RUCAIBox/RecBole)
 - [ReChorus](https://github.com/THUwangcy/ReChorus)
+- [RecList](https://github.com/jacopotagliabue/reclist)
 - [RecPack](https://github.com/LienM/recpack)
