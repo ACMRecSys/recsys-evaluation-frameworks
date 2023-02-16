@@ -7,7 +7,7 @@ The frameworks are listed alphabetically.
 
 - [ClayRS](https://github.com/swapUniba/ClayRS)
 - [Cornac](https://github.com/caserec/CaseRecommender)
-- [DaisyRec](https://github.com/AmazingDD/daisyRec)
+- [DaisyRec](https://github.com/recsys-benchmark/DaisyRec-v2.0)
 - [Elliot](https://github.com/sisinflab/elliot)
 - [FuxiCTR](https://github.com/xue-pai/FuxiCTR)
 - [Fidelity Mab2rec](https://github.com/fidelity/mab2rec) + [Fidelity Jurity](https://github.com/fidelity/jurity)
