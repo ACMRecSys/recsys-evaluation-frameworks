@@ -6,7 +6,7 @@ Here, you can find links to frameworks useful for recommendation algorithms eval
 The frameworks are listed alphabetically.
 
 - [ClayRS](https://github.com/swapUniba/ClayRS)
-- [Cornac](https://github.com/caserec/CaseRecommender)
+- [Cornac](https://github.com/PreferredAI/cornac)
 - [DaisyRec](https://github.com/recsys-benchmark/DaisyRec-v2.0)
 - [Elliot](https://github.com/sisinflab/elliot)
 - [FuxiCTR](https://github.com/xue-pai/FuxiCTR)
