@@ -12,7 +12,7 @@ The frameworks are listed alphabetically.
 - [FuxiCTR](https://github.com/xue-pai/FuxiCTR)
 - [Fidelity Mab2rec](https://github.com/fidelity/mab2rec) + [Fidelity Jurity](https://github.com/fidelity/jurity)
 - [LensKit](https://github.com/lenskit/lenskit)
-- [Microsoft Recommenders](https://github.com/microsoft/recommenders)
+- [Recommenders (was Microsoft Recommenders)](https://github.com/recommenders-team/recommenders)
 - [RecBole](https://github.com/RUCAIBox/RecBole)
 - [ReChorus](https://github.com/THUwangcy/ReChorus)
 - [RecList](https://github.com/jacopotagliabue/reclist)
