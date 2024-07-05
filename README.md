@@ -9,7 +9,7 @@ The frameworks are listed alphabetically.
 - [Cornac](https://github.com/PreferredAI/cornac)
 - [DaisyRec](https://github.com/recsys-benchmark/DaisyRec-v2.0)
 - [Elliot](https://github.com/sisinflab/elliot)
-- [FuxiCTR](https://github.com/xue-pai/FuxiCTR)
+- [FuxiCTR](https://github.com/reczoo/FuxiCTR)
 - [Fidelity Mab2rec](https://github.com/fidelity/mab2rec) + [Fidelity Jurity](https://github.com/fidelity/jurity)
 - [LensKit](https://github.com/lenskit/lenskit)
 - [Recommenders (was Microsoft Recommenders)](https://github.com/recommenders-team/recommenders)
