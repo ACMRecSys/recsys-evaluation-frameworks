@@ -11,7 +11,7 @@ The frameworks are listed alphabetically.
 - [Elliot](https://github.com/sisinflab/elliot)
 - [FuxiCTR](https://github.com/reczoo/FuxiCTR)
 - [Fidelity Mab2rec](https://github.com/fidelity/mab2rec) + [Fidelity Jurity](https://github.com/fidelity/jurity)
-- [LensKit](https://github.com/lenskit/lenskit)
+- [LensKit](https://github.com/lenskit/lkpy) ([documentation site](https://lenskit.org))
 - [Recommenders (was Microsoft Recommenders)](https://github.com/recommenders-team/recommenders)
 - [RecBole](https://github.com/RUCAIBox/RecBole)
 - [ReChorus](https://github.com/THUwangcy/ReChorus)
