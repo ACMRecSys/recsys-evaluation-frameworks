@@ -17,3 +17,4 @@ The frameworks are listed alphabetically.
 - [ReChorus](https://github.com/THUwangcy/ReChorus)
 - [RecList](https://github.com/jacopotagliabue/reclist)
 - [RecPack](https://github.com/LienM/recpack)
+- [WarpRec](https://github.com/sisinflab/warprec)
